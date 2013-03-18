@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.iml
+*.ipr
+*.iws
+.idea
+.svn
+target/
+tags
+History.md

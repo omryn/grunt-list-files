@@ -1,0 +1,22 @@
+{
+  "name": "grunt-list-files",
+  "version": "0.0.1",
+  "description": "grunt file list task: allows creation of templated files list",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt && jasmine-node src/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omryn/grunt-list-files.git"
+  },
+  "keywords": [
+    "grunt",
+    "list",
+    "files",
+    "template"
+  ],
+  "author": "Omry Nachman <omry@wix.com>",
+  "license": "BSD",
+  "gitHead": "00c08ffccefa64e529ccef9c70f492c36a408a31"
+}

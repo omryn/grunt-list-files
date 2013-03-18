@@ -8,3 +8,4 @@ Thumbs.db
 target/
 tags
 History.md
+node_modules

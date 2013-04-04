@@ -1,8 +1,8 @@
 {
     "name": "grunt-list-files",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "description": "grunt file list task: allows creation of templated files list",
-    "main": "index.js",
+    "main": "Gruntfile.js",
     "scripts": {
         "test": "grunt && jasmine-node src/test"
     },
